@@ -17,6 +17,7 @@ public class Latihan1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("sedang kolaborasi");
+        System.out.print("wadidawww");
         System.out.println("huhui latihan github");
         System.out.println("kenapa aku gemes ?");
         System.out.println("gempi 7Sr");
