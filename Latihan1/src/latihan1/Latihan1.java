@@ -20,6 +20,7 @@ public class Latihan1 {
         System.out.println("huhui latihan github");
         System.out.println("kenapa aku gemes ?");
         System.out.println("gempi 7Sr");
+        System.out.println("HIRO LUCUUUU BINGIT");
     }
     
 }
